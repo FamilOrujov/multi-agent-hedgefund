@@ -11,7 +11,6 @@
 <a href="https://ollama.ai/"><img src="https://img.shields.io/badge/Ollama-Local_LLM-FF6B35?style=for-the-badge" alt="Ollama"></a>
 <a href="https://pydantic.dev"><img src="https://img.shields.io/badge/Pydantic-2.10+-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"></a>
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://textual.textualize.io"><img src="https://img.shields.io/badge/Textual-TUI-5A67D8?style=for-the-badge&logo=python&logoColor=white" alt="Textual"></a>
 <a href="https://tavily.com"><img src="https://img.shields.io/badge/Tavily-Web_Search-FF6B35?style=for-the-badge&logo=search&logoColor=white" alt="Tavily"></a>
 <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 
