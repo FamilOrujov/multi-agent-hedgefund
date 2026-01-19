@@ -16,6 +16,10 @@
 
 <br/>
 
+![Aegis Flux TUI](assets/main_screen.png)
+
+<br/>
+
 *Aegis Flux is a production ready multi agent investment analysis system that I built to demonstrate how sophisticated financial analysis can be achieved through collaborative AI agents, consensus building debates, and configurable human oversight. The system orchestrates specialized agents that fetch market data, analyze technical indicators, evaluate fundamentals, gauge sentiment, and debate their positions before a Portfolio Manager synthesizes everything into actionable investment recommendations with full auditability.*
 
 </div>
