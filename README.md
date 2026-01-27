@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aegis Flux
+# Aegis Flux.
 
 ### Multi Agent AI Investment Analysis System with Local LLMs, Consensus Debates, and Human in the Loop Controls
 
